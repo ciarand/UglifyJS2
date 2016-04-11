@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 UglifyJS 2
 ==========
 [![Build Status](https://travis-ci.org/mishoo/UglifyJS2.png)](https://travis-ci.org/mishoo/UglifyJS2)
